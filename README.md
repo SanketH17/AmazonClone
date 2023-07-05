@@ -14,3 +14,13 @@
 - Documented the development process and provided clear and concise documentation for future reference.
 
 By meticulously designing and developing the Amazone Clone project, I showcased my proficiency in **HTML** and **CSS**, along with my ability to create visually appealing and user-friendly web interfaces. The project highlights my expertise in responsive design and my commitment to delivering high-quality results. I look forward to applying these skills and contributing to future web development projects.
+___
+## Screenshots
+![a1](https://github.com/SanketH17/AmazonClone/assets/78288577/377983ba-50fa-4192-be9a-665bfd23f2ba)
+
+![a2](https://github.com/SanketH17/AmazonClone/assets/78288577/f35a5c7f-889f-4eac-8682-f4ba4867c4d1)
+
+![a3](https://github.com/SanketH17/AmazonClone/assets/78288577/12940497-9313-4717-b4ac-490df5103cfb)
+
+
+
